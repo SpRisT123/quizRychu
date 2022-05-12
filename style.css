@@ -1,0 +1,80 @@
+body {
+    background-image: url("tlo.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    font-family: 'Lato', sans-serif;
+    
+   }
+
+#duze
+{
+  background:rgba(12, 83, 201, 0.9);
+  width: 500px;
+  height: 1025px;
+  border-radius: 30px;
+  margin-left: auto;
+  margin-right: auto;
+  font-weight: 500;
+}
+#duze1
+{
+  background:rgba(12, 83, 201, 0.9);
+  width: 260px;
+  height: 200px;
+  border-radius: 30px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20%;
+  text-align: center;
+  font-size: 25px;
+  font-weight: bold;
+}
+#duze2
+{
+  background:rgba(12, 83, 201, 1);
+  width: 300px;
+  height: 250px;
+  border-radius: 90px;
+}
+#duze3
+{
+  background:rgba(12, 83, 201, 1);
+  width: 400px;
+  height: 350px;
+  border-radius: 90px;
+
+}
+#buton2{
+  position: relative;
+  left: 230px;
+}
+#powrot{
+  position: center;
+}
+
+#przycisk1{
+	padding: 9px 25px;
+  background-color: #60a3bc;
+  border: none;
+  cursor: pointer;
+  transition: all 0.3s ease 0s;
+  outline: none;
+  margin: 10px;
+  color: #edf0f1;
+  border-radius: 20px;
+  font-weight: 450;
+}
+#przycisk{
+  padding: 9px 25px;
+  background-color: #60a3bc;
+  border: none;
+  cursor: pointer;
+  transition: all 0.3s ease 0s;
+  outline: none;
+  margin: 10px;
+  color: #edf0f1;
+  border-radius: 20px;
+  font-weight: 450;
+}
+
